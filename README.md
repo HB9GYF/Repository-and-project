@@ -6,3 +6,4 @@ Ein (1) Repository und ein (1) Project für fünf (5) Developer und alle arbeite
 
 
 Sah den Schreibfelher von Developer-B und schrieb ihm eine Mail mit Screenshot.
+Machte irgendwo auch eine Änderung. 
